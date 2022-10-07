@@ -1,0 +1,47 @@
+.body{
+    background-color: white;
+} 
+.one{
+    margin-top:0;
+    width:30vw;
+    height:100vh;
+    background-color:#faee07;
+
+}
+
+.image{
+    height: 150px;
+    width: 150px;
+    margin-left: 70px;
+    margin-top: 50px;
+}
+.square{
+    background-color: black;
+    height: 20px; 
+    width: 300px;
+    margin-left: 5px;
+    color: #faee07;
+
+}
+.squr{
+    margin-top: 20px;
+    background-color: black;
+    height:30px ;
+    width: 60px;
+}
+i{
+    color: #faee07;
+    margin-left: 40px;
+    margin-top: 7px;
+}
+.hob{
+    display: flex;
+    margin-top: 20px;
+    background-color: black;
+    height:30px ;
+    width: 60px;
+    
+}
+
+
+

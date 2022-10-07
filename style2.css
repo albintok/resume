@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(144, 149, 146);
+}
+.parent{
+    display: flex;
+    background-color:white;
+    height:900px;
+    width: 60%;
+}
+child{
+    display:flex;
+    
+    
+}
+.cone{
+    width:40%;
+    height: 900px;
+    background-color:yellow;
+ }
+img{
+    height: 150px;
+    width: 150px;
+    margin-left: 28%;
+    margin-top: 15%;
+    border-radius: 50%;
+}
+.square{
+    background-color: black;
+    height: 20px; 
+    width: 98%;
+    margin-left: 2px;
+    color: #faee07;
+
+}
+.squr{  
+        display: flex;
+        margin-top: 3%;
+        background-color: black;
+        height:3% ;
+        width: 18%;
+}
+i{
+    color: #faee07;
+    margin-left:55%;
+    margin-top: 4%;
+}
+.sp{
+    margin-left:15px;
+}
+.hobbies{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        
+}
+.hob{
+        display: flex;
+        margin-top: 5%;
+        margin-left: 3%;
+        background-color: black;
+        height:80% ;
+        width: 30%;
+}
+.ctwo{
+    margin-left: 4px;
+    width:60%;
+    height: 900px;
+    background-color:white;
+ }
+.rec{
+    margin-bottom: auto;
+    background-color: black;
+    height: 25px; 
+    width:80%;
+    margin-left:100px;
+    color: white;
+    
+}
+p{
+    margin-left: 20px;
+}
+ul{
+    margin-left: 3px;
+}
+.sstyle{
+    list-style: disc;
+}
+.ys{
+    margin-left: 5px;
+}
